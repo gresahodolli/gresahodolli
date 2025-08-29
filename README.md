@@ -12,7 +12,6 @@
 
 <div align="center">
 
-  🌱 I’m currently learning **Node.js**
 
   💬 Ask me about **C++, C#, HTML, CSS, JavaScript, React.js, PHP, Laravel, Java, JavaFX**
   
